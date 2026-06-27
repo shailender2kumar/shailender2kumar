@@ -9,7 +9,7 @@ width="400px"/>
 
 - 🔭 I’m currently working on **Analyze a dataset (provided) using Pandas and perform basic data wrangling tasks. You’ll be expected to clean, filter, and manipulate the data to gain meaningful insights.**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 👯 I’m looking to collaborate on **project on react**
 
