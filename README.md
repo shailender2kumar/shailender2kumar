@@ -11,9 +11,9 @@ width="400px"/>
 
 - 🌱 I’m currently learning **Data Analytics**
 
-- 👯 I’m looking to collaborate on **project on react**
+- 👯 I’m looking to collaborate on **Data analytics**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Data**
 
 - ⚡ Fun fact **explore X.com in free time**
 
